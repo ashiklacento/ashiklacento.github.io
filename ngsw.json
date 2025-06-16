@@ -1,0 +1,89 @@
+{
+  "configVersion": 1,
+  "timestamp": 1750107192698,
+  "index": "/loan-calculator-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/loan-calculator-pwa/159.d8b7d10451265f16.js",
+        "/loan-calculator-pwa/678.2cbb97bf32d6f40b.js",
+        "/loan-calculator-pwa/92.1ec92a47285799ed.js",
+        "/loan-calculator-pwa/favicon.ico",
+        "/loan-calculator-pwa/index.html",
+        "/loan-calculator-pwa/main.5b4bfb242c0c7269.js",
+        "/loan-calculator-pwa/manifest.webmanifest",
+        "/loan-calculator-pwa/polyfills.1ebd66255fa56d6d.js",
+        "/loan-calculator-pwa/runtime.5496171bd860e1ed.js",
+        "/loan-calculator-pwa/scripts.c89ec616c38b1a8a.js",
+        "/loan-calculator-pwa/styles.fa397cf45bf9c76d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/loan-calculator-pwa/assets/icons/icon-128x128.png",
+        "/loan-calculator-pwa/assets/icons/icon-144x144.png",
+        "/loan-calculator-pwa/assets/icons/icon-152x152.png",
+        "/loan-calculator-pwa/assets/icons/icon-192x192.png",
+        "/loan-calculator-pwa/assets/icons/icon-384x384.png",
+        "/loan-calculator-pwa/assets/icons/icon-512x512.png",
+        "/loan-calculator-pwa/assets/icons/icon-72x72.png",
+        "/loan-calculator-pwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/loan-calculator-pwa/159.d8b7d10451265f16.js": "e78387b07b2ebeaf134478d735025978af43273a",
+    "/loan-calculator-pwa/678.2cbb97bf32d6f40b.js": "a7a94c79e4163f0798e457f3fa49580b6146f0ed",
+    "/loan-calculator-pwa/92.1ec92a47285799ed.js": "13ed3263203a9c6092e3078545d6bf6acec312bb",
+    "/loan-calculator-pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/loan-calculator-pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/loan-calculator-pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/loan-calculator-pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/loan-calculator-pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/loan-calculator-pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/loan-calculator-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/loan-calculator-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/loan-calculator-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/loan-calculator-pwa/index.html": "05b976c6adbf5e70dc16c3f48c8121fbf7f53ef7",
+    "/loan-calculator-pwa/main.5b4bfb242c0c7269.js": "d87030f23507fc2d48a7e11a1e6b4f8c5ffba457",
+    "/loan-calculator-pwa/manifest.webmanifest": "d5455efe3d6ef8149a5e8705d4dbb8ef4e5a1f78",
+    "/loan-calculator-pwa/polyfills.1ebd66255fa56d6d.js": "9eb043f576742832a665c236db629a5983a33ccd",
+    "/loan-calculator-pwa/runtime.5496171bd860e1ed.js": "40223640da52ddab60113276220321eef48917ee",
+    "/loan-calculator-pwa/scripts.c89ec616c38b1a8a.js": "41d058ca057995d929e37192c372f39432627f1d",
+    "/loan-calculator-pwa/styles.fa397cf45bf9c76d.css": "672c9680d1f1f5fe7f59dd958576945026d49a59"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
